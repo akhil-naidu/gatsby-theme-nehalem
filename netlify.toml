@@ -5,3 +5,31 @@
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+  
+[[plugins]]
+package = "netlify-plugin-ghost-markdown"
+
+  [plugins.inputs]
+  # Required: Your Ghost domain, must not end in a trailing slash
+  ghostURL = "https://ghost.leewardslope.com"
+
+  # Required: Content API key from the Integrations screen in Ghost Admin
+  ghostKey = "db5d32976085a7ee7276b37491"
+
+  # Optional: Directory containing image assets (assets/images by default)
+  assetsDir = "./demo/content/posts/blog/assets"
+
+  # Optional: Directory containing pages (site root by default)
+  pagesDir = "./demo/content/pages"
+
+  # Optional: Directory containing posts (_posts/ directory by default)
+  postsDir = "./demo/content/posts/"
+
+  # Optional: Layout value for pages (page by default)
+  pageLayout = "page"
+
+  # Optional: Layout value for posts (post by default)
+  postsLayout = "post"
+
+  # Optional: Date prefix on post file names (true by default)
+  postDatePrefix = flase
