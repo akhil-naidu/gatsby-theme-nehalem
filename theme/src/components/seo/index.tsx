@@ -67,19 +67,19 @@ const SEO: FunctionComponent<SEOProps> = ({
           content: metaDescription,
         },
         {
-          name: `og:title`,
+          property: `og:title`,
           content: siteTitle,
         },
         {
-          name: `og:type`,
+          property: `og:type`,
           content: isArticle ? `article` : `website`,
         },
         {
-          name: `og:description`,
+          property: `og:description`,
           content: metaDescription,
         },
         {
-          name: `og:url`,
+          property: `og:url`,
           content: canonical,
         },
         {
