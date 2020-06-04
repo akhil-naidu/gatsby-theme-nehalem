@@ -13,7 +13,9 @@ updated: 2020-06-04T07:23:06.645Z
 A person who is able to discover a weakness in a system and manages to exploit it is called a **hacker** and this process is known as **Hacking**. Hacking is an art. It is the mastery of a system that gives you complete control over it. It is the act of modifying the inner workings of a system, in order to make it do something that it’s original creator never intended.
 
 > That’s the gist of it. But as with all things, the devil is in the details. This is what this website is for.
----
+
+- - -
+
 I’m going to make a broad claim here: The only thing you need to become a hacker is interest and dedication. But more than anything else, you need a **thirst for knowledge**. You should always be willing to learn something new, always open to new ideas. So come with me, follow along these series of tutorials and before long you’ll see for yourself that the claim has been justified.
 
 - - -
@@ -31,7 +33,5 @@ Secondly, these days the only side of hacking that people hear about is the bad 
 For every major hack that makes the news, many more are prevented by security specialists. These people, these whitehat hackers, possess exactly the same skillset as the blackhats, but they choose to use them for good. No software can ever be completely secure and that makes cyber security a cat and mouse game. A race between whitehats and blackhats. A battle of angels and demons, the stakes of which have never been higher than they are today. The global cost of cyber crime is projected to reach [$2 trillion by 2019](http://www.forbes.com/sites/stevemorgan/2016/01/17/cyber-crime-costs-projected-to-reach-2-trillion-by-2019/#44daa5ac3bb0) and today it crossed that limit far ago.
 
 The question is- [Which side are you on?](https://blog.leewardslope.com/types-of-hackers)
-
-> It is always you who is responsible for the knowledge or wisdom you gained and also it is you who is responsible for your actions with your knowledge. Providing and sharing knowledge is primitive and the only way for any subject or culture to survive.
 
 - - -
