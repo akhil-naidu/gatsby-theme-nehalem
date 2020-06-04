@@ -4,8 +4,8 @@ title: I want to become a professional hacker but can't find the right resources
 path: /resources-to-become-a-hacker
 tags:
   - Cyber Security
-metaImage: assets/main-bg.webp
-featuredImage: ./assets/main-bg.webp
+metaImage: assets/article-370.jpg
+featuredImage: ./assets/article-370.jpg
 excerpt: Hacking is an art, and it takes years of practice to master it. Having
   no idea about hacking is okay and when I say beginner, I mean someone who has
   no experience with programming and with hacking methodologies.
