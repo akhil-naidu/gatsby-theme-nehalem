@@ -32,4 +32,4 @@ package = "netlify-plugin-ghost-markdown"
   postsLayout = "post"
 
   # Optional: Date prefix on post file names (true by default)
-  postDatePrefix = flase
+  postDatePrefix = false
