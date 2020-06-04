@@ -26,7 +26,7 @@ package = "netlify-plugin-ghost-markdown"
   postsDir = "./demo/content/posts/"
 
   # Optional: Layout value for pages (page by default)
-  pageLayout = "page"
+  # pageLayout = "page"
 
   # Optional: Layout value for posts (post by default)
   postsLayout = "post"
