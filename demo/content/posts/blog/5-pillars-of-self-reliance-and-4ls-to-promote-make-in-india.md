@@ -3,8 +3,8 @@ title: 5 Pillars of Self Reliance and 4L's to promote Make In India.
 path: /5Pillars-and-4L's
 tags:
   - General
-metaImage: assets/5pillars.webp
-featuredImage: ./assets/5pillars.webp
+metaImage: assets/what-is-hacking.webp
+featuredImage: ./assets/what-is-hacking.webp
 excerpt: In a speech to the nation tonight, Prime Minister Narendra Modi
   enlightened us with the 5 Pillars and announced an economic package to tackle
   the downside of the coronavirus crisis.
