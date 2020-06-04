@@ -3,8 +3,8 @@ title: What is Hacking?
 path: /what-is-hacking
 tags:
   - Cyber Security
-metaImage: assets/what-is-hacking.webp
-featuredImage: ./assets/what-is-hacking.webp
+metaImage: assets/article-370.jpg
+featuredImage: ./assets/article-370.jpg
 excerpt: A person who is able to discover a weakness in a system and manages to
   exploit it is called a hacker and this process is known as Hacking.
 created: 2020-06-04T07:23:06.595Z
