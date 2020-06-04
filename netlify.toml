@@ -2,7 +2,4 @@
   base    = "demo"
   command = "yarn build"
   publish = "public/"
-
-[[plugins]]
-  package = "netlify-plugin-gatsby-cache"
   
