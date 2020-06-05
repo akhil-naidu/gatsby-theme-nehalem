@@ -38,13 +38,13 @@ Remember, breaking into a company’s internal network without authorization or 
 
 ### Hacktivists
 
-These are the hackers who use their skills as a means of protesting against injustice and protecting human rights such as free speech. They attack a system or website to popularize a notion or gather attention to a specific case for rectification. They are vigilantes, the dark knights of the hacking universe. This is where good intentions collide with the law, for hacktivists may or may not carry out illegal activities to get their point across to the world. They are outlaws who deliver their own brand of rough justice. [Anonymous](http://blog.leewardslope.com/anonymous), [LulzSec](https://en.wikipedia.org/wiki/LulzSec) and [WikiLeaks](https://wikileaks.org/) are a few notable hacktivist groups.
+These are the hackers who use their skills as a means of protesting against injustice and protecting human rights such as free speech. They attack a system or website to popularize a notion or gather attention to a specific case for rectification. They are vigilantes, the dark knights of the hacking universe. This is where good intentions collide with the law, for hacktivists may or may not carry out illegal activities to get their point across to the world. They are outlaws who deliver their own brand of rough justice. [Anonymous](https://en.wikipedia.org/wiki/Operation_Payback), [LulzSec](https://en.wikipedia.org/wiki/LulzSec) and [WikiLeaks](https://wikileaks.org/) are a few notable hacktivist groups.
 
 ### Government
 
 The potential consequences of government hacking are so enormous and far reaching that I feel compelled to put them in a different category. Imagine an adversary that not only has access to billions of dollars but also decides the laws in your country. An adversary who wants control over every aspect of your life. How do you defend against such an opponent?
 
-This is increasingly becoming a global problem. Instead of protecting the human right to privacy, governments around the world are opting to violate it, following in the footsteps of[NSA](https://en.wikipedia.org/wiki/National_Security_Agency)and[GCHQ](https://en.wikipedia.org/wiki/Government_Communications_Headquarters). In the coming tutorials, protecting your privacy is going to be an ever-present concern for us.
+This is increasingly becoming a global problem. Instead of protecting the human right to privacy, governments around the world are opting to violate it, following in the footsteps of [NSA](https://en.wikipedia.org/wiki/National_Security_Agency)and [GCHQ](https://en.wikipedia.org/wiki/Government_Communications_Headquarters). In the coming tutorials, protecting your privacy is going to be an ever-present concern for us.
 
 ### You
 
