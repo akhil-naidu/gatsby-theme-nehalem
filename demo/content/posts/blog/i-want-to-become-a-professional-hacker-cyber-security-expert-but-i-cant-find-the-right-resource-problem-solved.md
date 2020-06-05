@@ -24,12 +24,12 @@ Welcome! This is what you have been searchig for. This post will be updated regu
 
 Hacking is an art, and it takes years of practice to master it. So how to get started? Having no idea about hacking is okay, but being a newbie with computers in general is not allowed. When I say beginner, I mean someone who has no experience with programming and with hacking methodologies. I didn't mean someone who needs a 1 page guide on how to download a tool. If you want to be a hacker, you have to work hard. So how to get started?
 
----
+- - -
 
 ### Introduction to Hacking
 
 * [What is Hacking](https://blog.leewardslope.com/what-is-hacking)
-* Type of Hackers
+* [Types of Hackers](https://blog.leewardslope.com/types-of-hackers)
 * More on hacking
 * Not being a noob
 * Setting up virtual machine to practice hacking
