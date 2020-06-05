@@ -30,7 +30,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 
 * [What is Hacking](https://blog.leewardslope.com/what-is-hacking)
 * [Types of Hackers](https://blog.leewardslope.com/types-of-hackers)
-* More on hacking
+* [More on hacking](https://blog.leewardslope.com/more-on-hacking)
 * Not being a noob
 * Setting up virtual machine to practice hacking
 
@@ -127,9 +127,9 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 
 ### General
 
-* Abbrevations
-* Common Terms
-* Common Tools
+* [Abbrevations](https://blog.leewardslope.com/abbreviations/)
+* [Common Terms](https://blog.leewardslope.com/common-terms/)
+* [Common Tools](https://blog.leewardslope.com/common-tools/)
 * The Ultimate Hacking Cheet Sheet
 * Anonymous
 * Hacking Facebook
