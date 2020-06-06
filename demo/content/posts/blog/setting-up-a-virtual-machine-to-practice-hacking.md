@@ -5,10 +5,9 @@ tags:
   - Cyber Security
 metaImage: assets/setting-up-a-vm.jpeg
 featuredImage: ./assets/setting-up-a-vm.jpeg
-excerpt: Due to the \*ahem\* *sensitive* nature of our field of work, I
-  recommend you use a virtual machine and not your personal native OS for doing
-  anything you’re not familiar with. Virtual machines are perfect for practicing
-  hacking
+excerpt: Due to the (ahem) sensitive nature of our field of work, I recommend
+  you use a virtual machine and not your personal native OS for doing anything
+  you’re not familiar with. Virtual machines are perfect for practicing hacking
 created: 2020-06-06T09:09:28.903Z
 updated: 2020-06-06T09:09:28.994Z
 ---
