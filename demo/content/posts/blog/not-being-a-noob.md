@@ -4,7 +4,7 @@ path: /not-being-a-noob
 tags:
   - Cyber Security
 metaImage: assets/not-being-a-noob.jpeg
-featuredImage: ./assets/not-beting-a-noob.jpeg
+featuredImage: ./assets/not-being-a-noob.jpeg
 excerpt: The following article assumes that you are a complete beginner and will
   likely help you every step of the way in becoming a hacker. This article is
   for anyone who wishes to communicate their troubles efficiently and getting
