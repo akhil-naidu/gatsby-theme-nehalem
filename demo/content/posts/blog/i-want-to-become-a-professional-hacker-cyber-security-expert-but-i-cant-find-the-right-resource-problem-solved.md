@@ -31,7 +31,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * [What is Hacking](https://blog.leewardslope.com/what-is-hacking)
 * [Types of Hackers](https://blog.leewardslope.com/types-of-hackers)
 * [More on hacking](https://blog.leewardslope.com/more-on-hacking)
-* Not being a noob
+* [Not being a noob](https://blog.leewardslope.com/not-being-a-noob)
 * Setting up virtual machine to practice hacking
 
 ### Creating Virus
