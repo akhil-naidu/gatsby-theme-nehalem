@@ -43,7 +43,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 ### Creating Virus
 
 * [Introduction](https://blog.leewardslope.com/introduction-to-batch-file-viruses)
-* Fork bomb
+* [Fork bomb](https://blog.leewardslope.com/fork-bomb)
 * Application Floder
 * Overloading Memory
 * Wiping Out Memory
