@@ -4,7 +4,7 @@ path: /application-flooder
 tags:
   - Cyber Security
 metaImage: assets/application-flooder.jpg
-featuredImage: ./assets/application-flooder.jpeg
+featuredImage: ./assets/application-flooder.jpg
 excerpt: Application Flooder is one of the most simplest and oldest viruses out
   there and unlike the fork bomb we just saw, the “Application flooder” although
   technically harmless, is a really annoying virus.
