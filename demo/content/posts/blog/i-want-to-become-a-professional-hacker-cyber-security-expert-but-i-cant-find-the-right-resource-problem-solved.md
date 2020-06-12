@@ -45,7 +45,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * [Introduction](https://blog.leewardslope.com/introduction-to-batch-file-viruses)
 * [Fork bomb](https://blog.leewardslope.com/fork-bomb)
 * [Application Flooder](https://blog.leewardslope.com/application-flooder)
-* Overloading Memory
+* [Overloading Memory](https://blog.leewardslope.com/overload-memory)
 * Wiping Out Memory
 * Folder Blaster
 * Frequently Asked Questions
