@@ -13,7 +13,6 @@ import Bio from "../components/bio";
 import Comments from "../components/comments";
 import SEO from "../components/seo";
 import {FaAlignJustify, FaTimes} from "react-icons/fa";
-import PageSidebarContent from "../components/page-sidebar-content";
 
 interface PostTemplateProps {
   data: {
@@ -277,9 +276,6 @@ const PostTemplate: FunctionComponent<PostTemplateProps> = ({data, location}) =>
             </PostFooter>
           </article>
         </PostContent>
-        <PageSidebar>
-          <PageSidebarContent />
-        </PageSidebar>
       </PostContainer>
       <PostAddition>
         <PostAdditionContent>
