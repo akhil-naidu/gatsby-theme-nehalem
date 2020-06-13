@@ -14,14 +14,14 @@ updated: 2020-06-13T04:24:41.709Z
 ---
 Now that we’ve learned how to [overloaded the computer’s memory](https://blog.leewardslope.com/overloading-memory), in this tutorial we’re going to wipe it all off. This is a short and easy one. This is different than the other batch file viruses we’ve seen yet. This can do real damage. Make sure you only run this [inside a VM](https://blog.leewardslope.com/setting-up-a-virtual-machine-to-practice-hacking).
 
-```
-
+```powershell
+del *.*
 ```
 
 A quick refresher, the `del` command is used to delete files or folders with the following syntax:
 
-```
-
+```powershell
+del [options] [/A:file_attributes] files_to_delete
 ```
 
 For example: the command `del fileName.extension`will delete the file ‘fileName.extension’ in the current directory.`*`is a wildcard, it means ‘all’. So `*.*` means ‘all file names with any extensions’. Putting a `*` before the `.` (dot) means that no matter what the file’s name is, it will be deleted. Putting a `*` after the `.` means that no matter what the file’s type is, it will be deleted. Combined, `del *.*` means that all files and folders encountered by our script in the current directory will be wiped off completely.
