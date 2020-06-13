@@ -30,7 +30,7 @@ Clearly, this could be quite dangerous to a system as nothing will be left, even
 
 How do we protect against it? For one, we have the **principle of least privilege**(PoLP). In most modern operating, the problem of accidental deletion of mission critical files is solved by the use of user access levels. In Windows, if you try to delete something important, you are sure to be greeted by:
 
-![denied](assets/acess-denie.jpg "denied\")
+![denied](assets/acess-denie.jpg "denied")
 
 If you try to delete something really really important, the operating system will simply deny doing so. Similarly, if you try to mess with someone else’s files (in a multi-user environment), you may not be able to read, edit, execute (or all three) depending on what permissions they (the other user) and the admin has granted you and by extension any scripts or programs you try to run.
 
