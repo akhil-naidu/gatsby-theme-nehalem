@@ -47,7 +47,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * [Application Flooder](https://blog.leewardslope.com/application-flooder)
 * [Overloading Memory](https://blog.leewardslope.com/overloading-memory)
 * [Wiping Out Memory](https://blog.leewardslope.com/wiping-out-memory)
-* Folder Blaster
+* [Folder Blaster](https://blog.leewardslope.com/folder-blaster)
 * Frequently Asked Questions
 * How to make your own virus
 
