@@ -4,7 +4,7 @@ path: /frequently-asked-questions-about-batch-files
 tags:
   - Cyber Security
 metaImage: assets/faq.jpeg
-featuredImage: ./faq.jpeg
+featuredImage: ./assets/faq.jpeg
 excerpt: So now we’ve got a bunch of batch file viruses under our belt. Now it’s
   time to further solidify your understanding of batch scripting, so that you
   can start making your own useful batch files (malicious or not).
