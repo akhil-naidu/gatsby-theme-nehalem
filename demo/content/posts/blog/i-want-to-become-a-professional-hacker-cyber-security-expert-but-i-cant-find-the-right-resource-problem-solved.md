@@ -22,9 +22,9 @@ Welcome! This is what you have been searchig for. This post will be updated regu
 
 ### Social Media Platform for Hackers
 
-**Straight to the point**: There are many social media platform for regular groups and many of the **Hacking**/**Programming**/**Cyber-Seciruty** information groups are hosted in these platforms. But we at Leewardslope want to create a seperate and dedicated platform for hackers and cyber security experts for organised discussions. 
+**Straight to the point**: There are many social media platform for regular groups and many of the **Hacking**/**Programming**/**Cyber-Seciruty** information groups are hosted in these platforms. But we at Leewardslope want to create a separate and dedicated platform for hackers and cybersecurity experts for organized discussions. 
 
-Want to join us and follow your favourite hacker and get relatime updates and news? Why wait then, [Join Us at Leeward Hackers](https://hackers.leewardslope.com/).
+Want to join us and follow your favorite hacker and get realtime updates and news? Why wait then, [Join Us at Leeward Hackers](https://hackers.leewardslope.com/).
 
 ## Content Navigation
 
@@ -48,7 +48,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * [Overloading Memory](https://blog.leewardslope.com/overloading-memory)
 * [Wiping Out Memory](https://blog.leewardslope.com/wiping-out-memory)
 * [Folder Blaster](https://blog.leewardslope.com/folder-blaster)
-* Frequently Asked Questions
+* [Frequently Asked Questions](https://blog.leewardslope.com/frequently-asked-questions-about-batch-files)
 * How to make your own virus
 
 ### Fun Stuff
