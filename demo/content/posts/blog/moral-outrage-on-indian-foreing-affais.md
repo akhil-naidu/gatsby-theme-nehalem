@@ -1,5 +1,5 @@
 ---
-title: Moral Outrage on Indian Foreign Affais
+title: Moral Outrage on Indian Foreign Affairs
 path: /moral-outrage-on-Indian-foreign-policy
 tags:
   - General
