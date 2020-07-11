@@ -1,6 +1,6 @@
 ---
 title: Moral Outrage on Indian Foreign Affairs
-path: /moral-outrage-on-Indian-foreign-policy
+path: /moral-outrage-on-Indian-foreign-affairs
 tags:
   - General
 metaImage: assets/moral.png
