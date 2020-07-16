@@ -14,7 +14,7 @@ updated: 2020-06-04T04:46:04.284Z
 ---
 ## Welcome Note
 
-Welcome! This is what you have been searchig for. This post will be updated regularly so that you can easily navigate through this blog and it's knowledge. Before we start I wan't to remind you a very important perspective, take it as a caution. 
+Welcome! This is what you have been searching for. This post will be updated regularly so that you can easily navigate through this blog and its knowledge. Before we start I want to remind you a very important perspective, take it as a caution. 
 
 > It is always you who is responsible for the knowledge or wisdom you gained and also it is you who is responsible for your actions with your knowledge. Providing and sharing knowledge is primitive and the only way for any subject or culture to survive.
 
@@ -22,13 +22,13 @@ Welcome! This is what you have been searchig for. This post will be updated regu
 
 ### Social Media Platform for Hackers
 
-**Straight to the point**: There are many social media platform for regular groups and many of the **Hacking**/**Programming**/**Cyber-Seciruty** information groups are hosted in these platforms. But we at Leewardslope want to create a separate and dedicated platform for hackers and cybersecurity experts for organized discussions. 
+**Straight to the point**: There are many social media platform for regular groups and many of the **Hacking**/**Programming**/**Cyber-Seciruty** information groups are hosted on these platforms. But we at Leewardslope want to create a separate and dedicated platform for hackers and cybersecurity experts for organized discussions. 
 
 Want to join us and follow your favorite hacker and get realtime updates and news? Why wait then, [Join Us at Leeward Hackers](https://hackers.leewardslope.com/).
 
 ## Content Navigation
 
-Hacking is an art, and it takes years of practice to master it. So how to get started? Having no idea about hacking is okay, but being a newbie with computers in general is not allowed. When I say beginner, I mean someone who has no experience with programming and with hacking methodologies. I didn't mean someone who needs a 1 page guide on how to download a tool. If you want to be a hacker, you have to work hard. So how to get started?
+Hacking is an art, and it takes years of practice to master it. So how to get started? Having no idea about hacking is okay, but being a newbie with computers, in general, is not allowed. When I say beginner, I mean someone who has no experience with programming and with hacking methodologies. I didn't mean someone who needs a one-page guide on how to download a tool. If you want to be a hacker, you have to work hard. So how to get started?
 
 - - -
 
@@ -61,8 +61,8 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 ### What is DDoSing?
 
 * Introduction to DDoS
-* Launching DDos Attack
-* Protecting Against DDos
+* Launching DDoS Attack
+* Protecting Against DDoS
 * Practicing fro DDos
 
 ### Social Engineering
@@ -133,10 +133,10 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 
 ### General
 
-* [Abbrevations](https://blog.leewardslope.com/abbreviations/)
+* [Abbreviations](https://blog.leewardslope.com/abbreviations/)
 * [Common Terms](https://blog.leewardslope.com/common-terms/)
 * [Common Tools](https://blog.leewardslope.com/common-tools/)
-* The Ultimate Hacking Cheet Sheet
+* The Ultimate Hacking Cheat Sheet
 * Anonymous
 * Hacking Facebook
 * Rooting your Android Phone
@@ -149,7 +149,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * The CIA Rule Book of Malware Creation
 * The best Documentaries for Hackers
 * The Top 5 Books for Hackers
-* Quantuim Computing and Digital Security
+* Quantum Computing and Digital Security
 * Going Pro
 
 ### Others
