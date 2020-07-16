@@ -49,7 +49,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * [Wiping Out Memory](https://blog.leewardslope.com/wiping-out-memory)
 * [Folder Blaster](https://blog.leewardslope.com/folder-blaster)
 * [Frequently Asked Questions](https://blog.leewardslope.com/frequently-asked-questions-about-batch-files)
-* How to make your own virus
+* [How to make your own virus](https://blog.leewardslope.com/how-to-make-your-own-virus)
 
 ### Fun Stuff
 
