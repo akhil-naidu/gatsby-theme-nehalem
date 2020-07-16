@@ -1,5 +1,5 @@
 ---
-title: How to ,ake your Own Virus
+title: How to make your Own Virus
 path: /how-to-make-your-own-virus
 tags:
   - Cyber Security
