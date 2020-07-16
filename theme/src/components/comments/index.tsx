@@ -25,7 +25,7 @@ const Commento = ({id}) => {
     const document = window.document;
     // In case our #commento container exists we can add our commento script
     if (document.getElementById('commento')) {
-      insertScript(`https://commento.leewardslope.com/js/commento.js`, `commento-script`, document.body);
+      insertScript(`https://talkative-kid.herokuapp.com/js/commento.js`, `commento-script`, document.body);
     }
 // Cleanup; remove the script from the page
     return () => removeScript(`commento-script`, document.body);
