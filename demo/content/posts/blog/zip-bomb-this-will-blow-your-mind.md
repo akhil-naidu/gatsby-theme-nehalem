@@ -4,7 +4,7 @@ path: /zip-bomb
 tags:
   - Cyber Security
 metaImage: assets/zipbomb.jpeg
-featuredImage: ./assets/zip-bomb.jpeg
+featuredImage: ./assets/zipbomb.jpeg
 excerpt: A zip bomb, also known as a decompression bomb (or the ‘Zip of Death’
   for the overly dramatic ones), is a malicious archive file designed to crash
   or render useless the program trying to access it. It could also be employed
