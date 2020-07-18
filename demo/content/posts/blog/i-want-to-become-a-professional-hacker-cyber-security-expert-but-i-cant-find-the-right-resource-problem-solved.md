@@ -14,7 +14,7 @@ updated: 2020-06-04T04:46:04.284Z
 ---
 ## Welcome Note
 
-Welcome! This is what you have been searching for. This post will be updated regularly so that you can easily navigate through this blog and its knowledge. Before we start I want to remind you a very important perspective, take it as a caution. 
+Welcome! This is what you have been searching for. This post will be updated regularly so that you can easily navigate through this blog and its knowledge. Before we start I want to remind you of a very important perspective, take it as a caution. 
 
 > It is always you who is responsible for the knowledge or wisdom you gained and also it is you who is responsible for your actions with your knowledge. Providing and sharing knowledge is primitive and the only way for any subject or culture to survive.
 
@@ -22,9 +22,11 @@ Welcome! This is what you have been searching for. This post will be updated reg
 
 ### Social Media Platform for Hackers
 
-**Straight to the point**: There are many social media platform for regular groups and many of the **Hacking**/**Programming**/**Cyber-Seciruty** information groups are hosted on these platforms. But we at Leewardslope want to create a separate and dedicated platform for hackers and cybersecurity experts for organized discussions. 
+**Straight to the point**: There are many social media platforms for regular groups and many of the **Hacking**/**Programming**/**Cyber-Seciruty** information groups are hosted on these platforms. But we at Leewardslope want to create a separate and dedicated platform for hackers and cybersecurity experts for organized discussions. 
 
 Want to join us and follow your favorite hacker and get realtime updates and news? Why wait then, [Join Us at Leeward Hackers](https://hackers.leewardslope.com/).
+
+> Under Construction,  we will be back soon.
 
 ## Content Navigation
 
@@ -38,9 +40,9 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * [Types of Hackers](https://blog.leewardslope.com/types-of-hackers)
 * [More on hacking](https://blog.leewardslope.com/more-on-hacking)
 * [Not being a noob](https://blog.leewardslope.com/not-being-a-noob)
-* [Setting up virtual machine to practice hacking](https://blog.leewardslope.com/setting-up-a-virtual-machine-to-practice-hacking)
+* [Setting up a virtual machine to practice hacking](https://blog.leewardslope.com/setting-up-a-virtual-machine-to-practice-hacking)
 
-### Creating Virus
+### Creating a Virus
 
 * [Introduction](https://blog.leewardslope.com/introduction-to-batch-file-viruses)
 * [Fork bomb](https://blog.leewardslope.com/fork-bomb)
@@ -55,7 +57,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 
 * [Zip Bomb](https://blog.leewardslope.com/zip-bomb)
 * [USB Stealer](https://blog.leewardslope.com/usb-stealer)
-* Hide Data Behind Images
+* [Hide Data Behind Images](https://blog.leewardslope.com/hide-data-behind-images)
 * Cheat Engine
 
 ### What is DDoSing?
