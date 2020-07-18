@@ -53,8 +53,8 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 
 ### Fun Stuff
 
-* Zip Bomb
-* USB Stealer
+* [Zip Bomb](https://blog.leewardslope.com/zip-bomb)
+* [USB Stealer](https://blog.leewardslope.com/usb-stealer)
 * Hide Data Behind Images
 * Cheat Engine
 
