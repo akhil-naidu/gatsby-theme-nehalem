@@ -10,7 +10,7 @@ excerpt: Hacking is an art, and it takes years of practice to master it. Having
   no idea about hacking is okay and when I say beginner, I mean someone who has
   no experience with programming and with hacking methodologies.
 created: 2020-06-04T04:46:04.232Z
-updated: 2020-06-04T04:46:04.284Z
+updated: 2020-07-20T04:46:04.284Z
 ---
 ## Welcome Note
 
@@ -58,7 +58,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 * [Zip Bomb](https://blog.leewardslope.com/zip-bomb)
 * [USB Stealer](https://blog.leewardslope.com/usb-stealer)
 * [Hide Data Behind Images](https://blog.leewardslope.com/hide-data-behind-images)
-* Cheat Engine
+* [Cheat Engine](https://blog.leewardslope.com/cheat-engine)
 
 ### What is DDoSing?
 
