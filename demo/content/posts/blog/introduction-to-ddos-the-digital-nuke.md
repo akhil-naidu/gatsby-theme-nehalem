@@ -52,10 +52,12 @@ So, I’m afraid we’ll have to amend our two-step DDoS process mentioned above
   * Torrents
   * Bonus points if you bundle it with a crappy toolbar.
 
-    ![crappy toolbar](assets/crappytoolbar.jpeg "crappy toolbar")
+![crappy toolbar](assets/crappytoolbar.jpeg "crappy toolbar")
+
 * Oh and there’s also an implied zeroth step:
 
   * You better have a hell of a good reason to DDoS someone because it is a lot of work to pull it off and if you get caught pulling it off, you should know that DDoSing is considered a criminal offense punishable by imprisonment.
 
----
+- - -
+
 And with that, we come to the end of the introduction to DDoS. Next up we’re going to see how to [launch our own DDoS attacks](https://blog.leewardslope.com/launching-ddos-attack).
