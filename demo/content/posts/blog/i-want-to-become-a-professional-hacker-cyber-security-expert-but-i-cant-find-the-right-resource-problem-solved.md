@@ -63,9 +63,9 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 ### What is DDoSing?
 
 * [Introduction to DDoS](https://blog.leewardslope.com/introduction-to-ddos)
-* Launching DDoS Attack
-* Protecting Against DDoS
-* Practicing fro DDos
+* [Launching DDoS Attack](https://blog.leewardslope.com/launching-ddos-attack/)
+* [Protecting Against DDoS](https://blog.leewardslope.com/protecting-against-ddos)
+* [Practicing fro DDos](https://blog.leewardslope.com/practicing-for-ddos)
 
 ### Social Engineering
 
