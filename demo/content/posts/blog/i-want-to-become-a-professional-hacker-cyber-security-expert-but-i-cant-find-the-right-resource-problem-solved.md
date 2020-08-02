@@ -119,7 +119,7 @@ Hacking is an art, and it takes years of practice to master it. So how to get st
 ### Networking
 
 * MAC Addresses
-* What is MAC Addresses Spoofing?
+* What is MAC Address Spoofing?
 * Spoofing on Android
 * Spoofing on Windows
 * Spoofing on OS X
