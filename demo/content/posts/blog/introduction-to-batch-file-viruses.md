@@ -71,7 +71,7 @@ pause
 The`set`command is used to define **variables** that can hold different values, in this case the string “Akhil”. The variable name enclosed within `%%` is how we access the value stored in the variable. Run the above and you should see
 
 ```powershell
-Hello Xeus
+Hello Akhil
 Press any key to continue . . .
 ```
 
