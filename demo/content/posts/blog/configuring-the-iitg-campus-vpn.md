@@ -4,7 +4,7 @@ path: /iitg-vpn
 tags:
   - General
 metaImage: assets/cepstrum.png
-featuredImage: ./assets/sepstrum.png
+featuredImage: ./assets/cepstrum.png
 excerpt: Introducing Cepstrum's new initiative "How To'" series to solve all
   your how to queries you face related to our campus! Here's the first one, "How
   To access IITG LAN?"
