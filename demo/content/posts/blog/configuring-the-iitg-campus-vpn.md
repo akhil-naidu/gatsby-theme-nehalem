@@ -17,7 +17,7 @@ If you want to connect to the campus intranet or download something from the cam
 
 This guide tries to provide a simplified and informative approach while installing your VPN.  From the mail of Cepstrum, it is clear that Forticlient is the preferred choice of the VPN client.
 
-# Things to know about VPN
+## Things to know about VPN
 
 **VPN:** Virtual Private Network, typically people used to think that VPN is a software-oriented program that creates a safe, secure, and encrypted connection over public connections. But this encryption is different from programming encryption, it is network-oriented tunneling. Let me explain it through a simple diagram.
 
@@ -45,7 +45,7 @@ This guide tries to provide a simplified and informative approach while installi
 
 > VPN is a new connection to internet using your own internet, it provides you an extra networking IP. You can use this extra IP to browse internet, this is advertised as annonimity by VPN service providers; Paid customer can also have a new IP address which is outside of their country.
 
-# Configuring IITG campus VPN
+## Configuring IITG campus VPN
 
 In this configuration, I would like to provide instructions to configure VPN within Ubuntu or Linux devices, if anyone of you needs configuration in another OS, please do mention them in the comment section.
 
@@ -89,7 +89,7 @@ In this configuration, I would like to provide instructions to configure VPN wit
 
   Due to a successful connection, your PC is virtually connected to our campus intranet, which allows you to access our campus Intranet.
 
-# Advantages and Disadvantages of this VPN
+## Advantages and Disadvantages of this VPN
 
 As always, any change will always result in some advantages and some disadvantages. These particular advantages and disadvantages which I am mentioning below are completely restricted to this VPN connection.
 
