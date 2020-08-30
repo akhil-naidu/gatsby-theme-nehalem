@@ -77,7 +77,7 @@ In this configuration, I would like to provide instructions to configure VPN wit
 
   **Server: `172.18.0.0`**
 
-  **UserName: `Your IITG Roll Number`**
+  **UserName: `Your IITG Proxy/Internet Username`**
 
   **Password: `Your IITG Proxy/Internet Password`**
 
